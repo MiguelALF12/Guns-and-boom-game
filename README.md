@@ -21,7 +21,7 @@ The game consist on the two player with an initial life, and every time one of t
 
 ### TODO
 - [ ] Fix performance
-- [ ] Decrease size
+- [ ] Decrease game file size
 
 Doubts on how this works, contact me: mailto:miguel.lopez@utp.edu.co
 
