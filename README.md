@@ -20,8 +20,8 @@ The game consist on the two player with an initial life, and every time one of t
 ![Select potion](https://github.com/MiguelALF12/Guns-and-boom-game/blob/c8460d7b61c3cdace605008233f61360bf87af32/presentationImages/selectMap.png)
 
 ### TODO
-- Fix performance
-- Decrease size
+- [ ] Fix performance
+- [ ] Decrease size
 
 Doubts on how this works, contact me: mailto:miguel.lopez@utp.edu.co
 
