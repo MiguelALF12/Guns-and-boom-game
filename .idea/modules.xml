@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Ejemplo de animaciones/.idea/Ejemplo de animaciones.iml" filepath="$PROJECT_DIR$/../Ejemplo de animaciones/.idea/Ejemplo de animaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GUN &amp; BOOM.iml" filepath="$PROJECT_DIR$/.idea/GUN &amp; BOOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ejemplo de rotaciones/Juego de Batalla-20220429/.idea/Juego de Batalla-20220429.iml" filepath="$PROJECT_DIR$/../Ejemplo de rotaciones/Juego de Batalla-20220429/.idea/Juego de Batalla-20220429.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Minesweeper/.idea/Minesweeper.iml" filepath="$PROJECT_DIR$/../Minesweeper/.idea/Minesweeper.iml" />
+    </modules>
+  </component>
+</project>
